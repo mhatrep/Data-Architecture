@@ -64,3 +64,17 @@ https://rockset.com/
 The Most Flexible Real-Time Analytics in the Cloud
 Build real-time, interactive dashboards and data-intensive applications in record time. Experience cloud-native speed, scale and flexibility. Iterate faster. Innovate more.
 ----------------------------------------------
+https://www.datarobot.com/
+Accelerate Your Business Impact from AI with DataRobot
+With DataRobot’s enterprise AI platform and automated decision intelligence, all key stakeholders can now collaborate in extracting business value from data.
+----------------------------------------------
+https://www.collibra.com/
+Collibra's Data Intelligence Cloud aligns every person, team and system throughout your company with accurate, trusted data — uniting people with facts and sparking the ideas that fuel your business.
+----------------------------------------------
+https://fractal.ai/
+????
+----------------------------------------------
+https://segments.ai/
+Build better models by building better datasets
+The platform for computer vision experts to iterate more quickly between data labeling, model training and failure case discovery.
+----------------------------------------------
