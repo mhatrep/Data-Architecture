@@ -44,3 +44,23 @@ https://imply.io/
 What can you do with Analytics in Motion?
 Apache Droid powered
 ----------------------------------------------
+https://www.anyscale.com/
+Distributed computing made simple
+Easily develop and deploy distributed Python and machine learning applications, at any scale.
+----------------------------------------------
+https://algorithmia.com/
+Algorithmia is MLOps
+85% of machine learning models never make it to production. Our MLOps platform gets your models into production and operating at peak performance, so you get real business results.
+----------------------------------------------
+https://www.elemental.com/
+Create Anywhere.
+Produce Faster.
+Deliver Everywhere.
+----------------------------------------------
+https://dagster.io/
+Dagster is a data orchestrator for machine learning, analytics, and ETL
+----------------------------------------------
+https://rockset.com/
+The Most Flexible Real-Time Analytics in the Cloud
+Build real-time, interactive dashboards and data-intensive applications in record time. Experience cloud-native speed, scale and flexibility. Iterate faster. Innovate more.
+----------------------------------------------
