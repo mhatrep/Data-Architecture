@@ -16,3 +16,15 @@ Focus on insights and innovation instead of ETL.
 https://www.fiddler.ai/
 ML Model Performance Management, Redefined.
 ----------------------------------------------
+https://databricks.com/
+All your data, analytics and AI on one Lakehouse platform
+Powered by Delta Lake, the Databricks Lakehouse combines the best of data warehouses and data lakes
+----------------------------------------------
+https://www.superconductive.ai/
+The team behind Great Expectations.
+Always know what to expect from your data
+----------------------------------------------
+https://www.getdbt.com/
+Transforming data. Transforming teams.
+dbt helps data teams work like software engineers—to ship trusted data, faster.
+----------------------------------------------
