@@ -2,3 +2,17 @@ https://www.tecton.ai/
 The Enterprise Feature Store for Machine Learning
 Build a library of great features. Serve them in production. Do it at scale.
 ----------------------------------------------
+https://sigopt.com/
+Build the best models
+----------------------------------------------
+https://looker.com/
+Better insights bring greater outcomes
+Build better data experiences on the premier platform for data.
+----------------------------------------------
+https://fivetran.com/
+Unlock Faster Time To Insight
+Focus on insights and innovation instead of ETL.
+----------------------------------------------
+https://www.fiddler.ai/
+ML Model Performance Management, Redefined.
+----------------------------------------------
