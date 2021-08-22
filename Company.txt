@@ -28,3 +28,19 @@ https://www.getdbt.com/
 Transforming data. Transforming teams.
 dbt helps data teams work like software engineers—to ship trusted data, faster.
 ----------------------------------------------
+https://selectstar.com/
+Data discovery made easy
+Beyond a data catalog, Select Star is an intelligent data discovery platform that helps you understand your data.
+----------------------------------------------
+https://datahub.io/
+Help organizations of all sizes to design, develop and scale
+solutions to manage their data and unleash its potential.
+----------------------------------------------
+https://www.snowflake.com/
+WHERE YOUR DATA CLOUD EXPERIENCE BEGINS:
+ONE PLATFORM, MANY WORKLOADS, NO DATA SILOS
+----------------------------------------------
+https://imply.io/ 
+What can you do with Analytics in Motion?
+Apache Droid powered
+----------------------------------------------
